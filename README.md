@@ -76,4 +76,4 @@ No se puede desactivar al último administrador activo ni quitarle ese rol.
 >
 > Consigue la versión Pro completa — consola con sidebar, tema claro/oscuro, tabla de usuarios y gráficos interactivos — en Gumroad:
 >
-> **[👉 Consigue la versión Pro en Gumroad](https://gumroad.com/l/enterprise-starter)**
+> **[👉 Consigue la versión Pro en Gumroad](https://ivndvz.gumroad.com/l/enterprise-starter)**
